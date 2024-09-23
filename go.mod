@@ -1,4 +1,4 @@
-module github.com/Hubert-Heijkers/authenticator
+module github.com/Hubert-Heijkers/tm1-authenticator-service
 
 go 1.19
 
